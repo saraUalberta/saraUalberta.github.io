@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # { Personal } Jekyll Theme
 ![Build Status](https://travis-ci.org/PanosSakkos/personal-jekyll-theme.svg?branch=master)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg?link=https://github.com/dono-app/ios/blob/master/LICENSE)
@@ -83,3 +84,7 @@ One of the reasons { Personal } is real is the following OSS projects:
         <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
     </a>
 </div>
+=======
+# saraUalberta.github.io
+>>>>>>> 1613aa2eb0ca72758ad9563c0e87c579da5f0bbf
+# saraUalberta.github.io
